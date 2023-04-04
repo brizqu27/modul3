@@ -21,6 +21,7 @@ public class ExampleStack{
             st.pop();
             count--;
         }
+
         System.out.println(st.pop());
         System.out.println(st.empty());
     }
